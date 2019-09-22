@@ -1,6 +1,6 @@
 # Relationship Therapy
 
-The goal of Relationship Therapy is to increase the joy of your relationships. Each session takes 5 minutes to complete.
+The goal of Relationship Therapy is to increase the joy of your relationships. Each session takes 5 minutes to complete. You don't have to complete all the session at one setting.
 
 * [Why care?](why-care/)
 * [How?](how/)
