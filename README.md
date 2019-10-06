@@ -8,8 +8,8 @@ The goal of Relationship Therapy is to increase the joy of your relationships. E
 * [Definitions](definitions/)
 
 #### Sessions:
-* [Session 1 - Nonviolent communication](session1/)
-* [Session 2 - Relationship Anarchy](session2/)
+* [Session 1 - Relationship Anarchy](session1/)
+* [Session 2 - Nonviolent communication](session2/)
 * [Session 3 - Resiliency](session3/)
 * [Session 4 - TBD](session4/)
 * [Session 5 - TBD](session5/)
